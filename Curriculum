@@ -1,0 +1,36 @@
+{
+  "datos_personales":{
+    "nombre":"Laura Sofia",
+    "apellidos":"Arce Peña",
+    "teléfono":"663796669",
+    "email":"Laura.arce96@hotmail.com"
+  },
+"experiencia_profesional":[
+  {
+    "experiencia1":"Jefe de personal",
+    "experiencia2":"Cuidado de mayores",
+    "experiencia3":"Ayudante de cocina",
+    "experiencia4":"Limpiadora"
+  }
+  ],
+
+"formación":[
+  {
+    "formacion1":"Tecnica Auxiliar Administrativa",
+    "centro":"Politecnico Agroindustrial Colombia",
+    "inicio":"Julio 2019",
+    "final":"Noviembre 2021"
+  },
+  {
+    "formacion2":"Especialista en Administración y Gestion",
+    "centro":"Australian Management College Australia",
+    "inicio":"Julio 2024",
+    "final":"Junio 2026"
+  }
+  ],
+
+ "idoiomas":{
+    "idiomas1":"Español nativo",
+    "idiomas2":"Ingles"
+    }
+}
